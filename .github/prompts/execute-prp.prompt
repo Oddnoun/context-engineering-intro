@@ -1,10 +1,12 @@
+---
+mode: agent
+---
+
 # Execute BASE PRP
 
-Implement a feature using the PRP file.
+Implement a feature using using the PRP file.
 
-## PRP File
-
-Specify the PRP file to use as an argument.
+## PRP File: $ARGUMENTS
 
 ## Execution Process
 
@@ -44,4 +46,4 @@ Specify the PRP file to use as an argument.
 6. **Reference the PRP**
    - You can always reference the PRP again if needed
 
-**Note:** If validation fails, use error patterns in the PRP to fix and retry.
+Note: If validation fails, use error patterns in PRP to fix and retry.
